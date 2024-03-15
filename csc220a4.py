@@ -1,3 +1,5 @@
+#This code is part of something larger for a homework assignment, so it does not function as it stands
+#However, this demonstrates the use of Array manipulation
 from array_queue import ArrayQueue
 
 
@@ -5,7 +7,7 @@ def sieve(value):
     # initializes ArrayQueue with the name 'PrimeQueue'
     PrimeQueue = ArrayQueue()
 
-    # Starts lists, one will hold all the prime numbers, the other will be a temp list to see if
+    # Starts lists, one will hold all the prime numbers, the other will be a temp list
     primeList = []
     tempList = []
 

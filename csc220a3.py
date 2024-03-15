@@ -1,3 +1,5 @@
+#This is a portion of code for something larger, so as it stands it does not function
+
 # Pulled from another file labeled "Array Stack"
 from array_stack import ArrayStack
 

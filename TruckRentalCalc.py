@@ -123,10 +123,10 @@ def Total():
         Rec.readline()
     Rec.close()
 
+if __name__ == '__main__':
+    print(f'Welcome To ABC Truck Rental\nTruck Rental System')
 
-print(f'Welcome To ABC Truck Rental\nTruck Rental System')
-
-Name(n=input(f'\nPlease Enter Your Name '))
-Menu()
+    Name(n=input(f'\nPlease Enter Your Name '))
+    Menu()
 
 
